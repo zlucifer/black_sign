@@ -1,1 +1,2 @@
 lokasi ini tempat db berformat txt. isinya adalah file json
+saya upload 5 contoh isi dari database.zip
