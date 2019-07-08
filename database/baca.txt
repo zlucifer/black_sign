@@ -1,0 +1,1 @@
+lokasi ini tempat db berformat txt. isinya adalah file json
