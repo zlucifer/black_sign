@@ -14,3 +14,15 @@ Siapa pun dipersilahkan untuk mencoba membuat script ataupun sekedar logika nya
 
 Script/Logika terbaik akan mendapatkan hadiah menarik :)
 ------------------------------------------------------------
+INFO TAMBAHAN
+--------------
+Isi dari database.zip
+
+> koin_1562376571321.txt 
+
+> 1562376571321 adalah jam berformat millisecond
+
+Dibaca nya
+
+> koin_jamnya.txt
+------------------------------------------------------------
